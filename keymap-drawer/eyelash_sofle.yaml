@@ -28,10 +28,10 @@ layers:
   - P
   - $$mdi:backspace-reverse-outline$$
   - {t: '`', s: '~'}
-  - {t: A, h: '$$mdi:apple-keyboard-shift$$'}
-  - {t: S, h: '$$mdi:apple-keyboard-control$$'}
-  - {t: D, h: '$$mdi:apple-keyboard-option$$'}
-  - {t: F, h: '$$mdi:apple-keyboard-command$$'}
+  - A
+  - S
+  - D
+  - F
   - G
   - $$mdi:arrow-left-bold$$
   - H

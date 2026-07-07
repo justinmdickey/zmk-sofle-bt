@@ -11,10 +11,10 @@ manifest:
   projects:
     - name: mario-peripheral-animation
       remote: gpeye
-      revision: main 
+      revision: 1aa3950d6c86b4240b3f79d06bdbb04c5d920711
     - name: zmk
       remote: zmkfirmware
-      revision: main
+      revision: v0.3.0
       import: app/west.yml
   self:
     path: boards
